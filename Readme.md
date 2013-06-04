@@ -9,7 +9,8 @@
 
 ## API
 
-   
+  	var append = require('component-append');
+  	append(el, '<div>bacon</div>');
 
 ## License
 
