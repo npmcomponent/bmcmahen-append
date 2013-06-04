@@ -9,7 +9,7 @@
 
 ## API
 
-  	var append = require('component-append');
+  	var append = require('bmcmahen-append');
   	append(el, '<div>bacon</div>');
 
 ## License
